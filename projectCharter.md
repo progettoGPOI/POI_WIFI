@@ -1,14 +1,16 @@
 | Progetto: Project charter GPOI | Codice progetto: A001 |
 | :----: | :----: |
 | Data: 17/03/2021  | Revisione: 0 |
-| Cliente: Turisti  | Sponsor: Agenzia Del Turismo Toscano  |
+| Cliente:  | Sponsor:  |
 
 ## Obbiettivi
 
 ## Principali deliverables
 
 ## Milestones
-
+1) Item 1
+2) Item 2
+3)  Item 3
 ## Vincoli e dipendenze
 
 ## Tempistica preliminare
@@ -20,6 +22,3 @@
 ## Struttura organizzativa
 
 ## Autorizzazioni
-
-| :----: | :----: || :----: |
-| sfretbv  | Sponsor: Agenzia Del Turismo Toscano  || Cliente: Turisti  | 
