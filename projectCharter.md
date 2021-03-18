@@ -4,7 +4,7 @@
 | Cliente: Turisti  | Sponsor: Agenzia Del Turismo Toscano  |
 
 ## Obbiettivi
-
+   Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovuta alla pandemia di COVID-19, siamo stati incaricati dall'Agenzia Del Turismo Toscano per realizazzione e promozione di un software in crado di aumentare il numero dei turisti.
 ## Principali deliverables
 
 ## Milestones
