@@ -8,9 +8,10 @@
 ## Principali deliverables
 
 ## Milestones
-1 Item 1
-2 Item 2
-3 Item 3
+1. Progettazione software
+2. programma applicativo
+3. Programma di installazione
+
 ## Vincoli e dipendenze
 
 ## Tempistica preliminare
