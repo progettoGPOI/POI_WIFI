@@ -8,10 +8,10 @@
 ## Principali deliverables
 <html>
 Projet Menagement: Pianificazione <br>
-Progettazione: Analisi & Specifiche 
-Progettazione: Interfacia Utente
-Esecuzione: Programma app
-Esecuzione: Programma e installazione app
+Progettazione: Analisi & Specifiche <br>
+Progettazione: Interfacia Utente <br>
+Esecuzione: Programma app <br> 
+Esecuzione: Programma e installazione app <br>
 </html>
 
 
