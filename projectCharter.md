@@ -14,9 +14,9 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
 **Esecuzione:** Programma e installazione app <br>
 
 ## Milestones
-1. Progettazione software
-2. programma applicativo
-3. Programma di installazione
+* Progettazione software
+* programma applicativo
+* Programma di installazione
 
 ## Vincoli e dipendenze
 **Risorse esterne all'azienda:** Server e gestione DB<br>
