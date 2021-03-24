@@ -36,10 +36,11 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
     <tr>
       <td>Approvato da</td>
       <td align="center"> </td>
-      <td align="right"> Data: </td>
+      <td align="right"> Data: </td> <br>
+      <td>Prof Lunghi e prof Pardini</td>
       
     </tr>
-    <td>Prof Lunghi e prof Pardini</td>
+    
     
    </table>
 
