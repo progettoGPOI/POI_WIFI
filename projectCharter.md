@@ -35,12 +35,10 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
   <tbody>
     <tr>
       <th>Approvato da:</th>
-      <th align="center"> </th>
-      <th align="right"> Data: </th>  
+      <th> Data: </th>  
     </tr>
          <tr>
           <td>Prof Lunghi e prof Pardini</td>
-          <td> </td>
           <td>25/03/2021</td>
     </tr>
     
