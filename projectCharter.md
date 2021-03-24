@@ -32,6 +32,8 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
 ## 7. Documenti di riferimento e allegati
 
 ## 8. Struttura organizzativa
+**Project manager:** Chellini Duccio, Chiaramonti Alessio <br>
+**Team del progetto:** Chiaramonti Alessio, Chellini Duccio
 
 ## 9. Autorizzazioni
 <table>
