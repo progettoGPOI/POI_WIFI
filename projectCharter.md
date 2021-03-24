@@ -19,6 +19,8 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
 3. Programma di installazione
 
 ## Vincoli e dipendenze
+**Risorse esterne all'azienda:** Server<br>
+hosting<br>
 
 ## Tempistica preliminare
 
