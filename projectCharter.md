@@ -4,15 +4,14 @@
 | Cliente: Turisti  | Sponsor: Agenzia Del Turismo Toscano  |
 
 ## Obbiettivi
-   Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovuta alla pandemia di COVID-19, siamo stati incaricati dall'Agenzia Del Turismo Toscano per realizazzione e promozione di un software in crado di aumentare il numero dei turisti.
+Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovuta alla pandemia di COVID-19, siamo stati incaricati dall'Agenzia Del Turismo Toscano per realizazzione e promozione di un software in crado di aumentare il numero dei turisti.
+
 ## Principali deliverables
-Projet Menagement: Pianificazione <br>
-Progettazione: Analisi & Specifiche <br>
-Progettazione: Interfacia Utente <br>
-Esecuzione: Programma app <br> 
-Esecuzione: Programma e installazione app <br>
-
-
+**Projet Menagement:** Pianificazione <br>
+**Progettazione:** Analisi & Specifiche <br>
+**Progettazione:** Interfacia Utente <br>
+**Esecuzione:** Programma app <br> 
+**Esecuzione:** Programma e installazione app <br>
 
 ## Milestones
 1. Progettazione software
