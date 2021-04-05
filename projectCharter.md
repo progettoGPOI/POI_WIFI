@@ -22,8 +22,10 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
 * Programma di installazione
 
 ## 4. Vincoli e dipendenze
-**Risorse esterne all'azienda:** Server e gestione DB<br>
-
+**Le risorse necessarie esterne all'azienda sono:**
+* Fotografo professionista
+* Guida turistica del luogo
+* Organizzatore di eventi
 
 ## 5. Tempistica preliminare
 
