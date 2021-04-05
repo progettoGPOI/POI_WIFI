@@ -37,7 +37,7 @@ Visto che turismo in tutta Italia ha subito una forte crisi economica e numerica
       * Software 
    * Personale Esterno
        * Fotografo 35€/h
-       * Giuda Turistica 30€/h
+       * Guida Turistica 30€/h
        * Organizatore di eventi 50€/h
    
 
@@ -54,7 +54,7 @@ Documenti momentaneamente mancanti
    * Chellini Duccio
    * Programmatori
    * Fotografo
-   * Giuda Turistica
+   * Guida Turistica
    * Organizatore di eventi
 ## 9. Autorizzazioni
 <table>
