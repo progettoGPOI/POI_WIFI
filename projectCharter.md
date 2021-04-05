@@ -49,9 +49,7 @@ Documenti momentaneamente mancanti
 **Team del progetto:**
    * Alessio Chiaramonti
    * Chellini Duccio
-   * Programmatore 1
-   * Programmatore 2
-   * Programmatore 3
+   * Programmatori
    * Fotografo
    * Giuda Turistica
    * Organizatore di eventi
