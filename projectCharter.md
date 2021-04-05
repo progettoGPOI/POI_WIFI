@@ -30,6 +30,16 @@ Visto che turismo in Toscana ha subito una forte crisi economica e numerica dovu
 ## 5. Tempistica preliminare
 
 ## 6. Principali risorse e limiti di costo
+   il baget per la realizazione è 15.000€
+   *Projet Maneger 95€/h
+   *Postazioni 
+   *Computer 
+   *Software 
+   *Personale Esterno
+   * Fotografo 35€/h
+   * Giuda Turistica 30€/h
+   * Organizatore di eventi 50€/h
+   
 
 ## 7. Documenti di riferimento e allegati
 Documenti momentaneamente mancanti
