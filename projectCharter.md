@@ -47,7 +47,8 @@ Documenti momentaneamente mancanti
 ## 8. Struttura organizzativa
 **Project manager:** 
 * Chellini Duccio
-* Chiaramonti Alessio <br>
+* Chiaramonti Alessio 
+
 **Team del progetto:**
    * Alessio Chiaramonti
    * Chellini Duccio
