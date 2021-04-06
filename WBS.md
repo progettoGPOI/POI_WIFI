@@ -1,7 +1,7 @@
 # WBS
 ## WBS per il progetto progettoGPOI per lo sviluppo del turismo nella città di Gallipoli
 
-![ ](WBS.jpg)
+![ ](Immagini/wbs.png)
 
 | Progetto: Project charter GPOI | Codice progetto: A001 |
 | :----: | :----: |
