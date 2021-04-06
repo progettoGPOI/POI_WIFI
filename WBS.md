@@ -8,7 +8,7 @@
 | Data: 05/04/2021  | Revisione: 0 |
 | Cliente: Turisti di Gallipoli | Sponsor: Agenzia Del Turismo  |
 
-* **WBS** **Descrizione** **Durata**
+# **WBS** **Descrizione** **Durata**
   * **1.1 Avvio**
      * 1.1.1 prova  5
      * 1.1.2 prova  6
