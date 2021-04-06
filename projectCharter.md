@@ -28,7 +28,7 @@ Visto che turismo in tutta Italia ha subito una forte crisi economica e numerica
 * Organizzatore di eventi
 
 ## 5. Tempistica preliminare
-![ ](https://github.com/progettoGPOI/POI_WIFI/blob/435a6e88428166d189e02d292cba0d2413b2c15a/ProjectCharter.jpg)
+![ ](ProjectCharter.jpg)
 
 ## 6. Principali risorse e limiti di costo
    il baget per la realizazione è 15.000€
