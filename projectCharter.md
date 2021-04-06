@@ -28,7 +28,7 @@ Visto che turismo in tutta Italia ha subito una forte crisi economica e numerica
 * Organizzatore di eventi
 
 ## 5. Tempistica preliminare
-![ ](ProjectCharter.jpg)
+![ ](Immagini/PC.jpeg)
 
 ## 6. Principali risorse e limiti di costo
    il baget per la realizazione è 15.000€
