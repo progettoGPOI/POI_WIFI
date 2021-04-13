@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html lang="it">
+	<head>
+		<title>Gantt VA</title>
+		<!-- inclusione libreria JS -->
+		<script type="text/javascript" src="node_modules/frappe-gantt/dist/frappe-gantt.js"></script>
+		<!-- inclusione libreria CSS -->
+		<link rel="stylesheet" href="node_modules/frappe-gantt/dist/frappe-gantt.css">
+
+	</head>
+
+	<body>
+		<h1>Diagramma di Gantt</h1>
+		<div>
+			<div class = "gantt-target"></div>
+		</div>
+
+		<script>
+			var tasks = [
+				{
+					start: '2021-01-15',
+					end: '2021-02-01',
+					name: 'Analisi dei requisiti',
+					id: 'task_0',
+					progress: '20'
+				},
+				{
+					start: '2021-02-01',
+					end: '2021-02-07',
+					name: 'progettazione concettuale',
+					id: 'task_1',
+					progress: '0',
+					dipendencies: 'task-0'
+				},	
+				{
+					start: '2021-02-07',
+					end: '2021-02-13',
+					name: 'progettazione logica',
+					id: 'task_2',
+					progress: '0',
+					dipendencies: 'task-1'
+				},
+				{
+					start: '2021-02-13',
+					end: '2021-02-25',
+					name: 'progettazione fisica',
+					id: 'task_3',
+					progress: '0',
+					dipendencies: 'task-2'
+				},
+				{
+					start: '2021-02-25',
+					end: '2021-03-07',
+					name: 'implementazione',
+					id: 'task_4',
+					progress: '0',
+					dipendencies: 'task-3'
+				},
+				{
+					start: '2021-03-07',
+					end: '2021-03-10',
+					name: 'collaudo',
+					id: 'task_5',
+					progress: '0',
+					dipendencies: 'task-4'
+				},
+				{
+					start: '2021-03-10',
+					end: '2022-01-01',
+					name: 'manutenzione',
+					id: 'task_5',
+					progress: '0',
+					dipendencies: 'task-4'
+				}
+			]
+				var gantt_chart = new Gantt(".gantt-target", tasks, {
+			on_click: function (task) {
+				console.log(task);
+			},
+			view_mode: 'Week',
+		});
+		console.log(gantt_chart);
+		</script>
+	</body>
+</html>
