@@ -16,11 +16,12 @@
        *  Materiali q = 3 licenze sw ; pu = 80€   tot. 240€
     
   * **1.2 Pianificazione** 
-    * 1.2.1 Progettazione  **tot. 3640€**
+    * 1.2.1 Progettazione  **tot. 4540€**
       *   Risurse umane q = 120h ; pu = 25€   tot. 3000€ (team programmazione)
       *   Risurse umane q = 4h ; pu = 35€   tot. 140€ (fotografo)
       *   Risurse umane q = 10h ; pu = 30€   tot. 300€ (guida turistica)
       *   Risurse umane q = 4h ; pu = 50€   tot. 200€ (organizzatore di eventi)
+      *   Risurse umane q = 20h ; pu = 15€   tot. 900€ (3 sistemisti)
   
   * **1.3 Realizazione**
        * 1.3.1 Realizazione sito WEB  **tot.400€** 
@@ -35,4 +36,5 @@
      * 1.4.1  Installazione **tot 60€**
           * Risorse Umane 2h 30€ TOTALE 60€  
 
-Sommando i totali dei costi del progetto si ottiene una previsione di costi 9125€, ai quali vanno sommati gli stipendi dei project manger che guadagnano 95€\h che moltiplicati per una durata di 50h lavorative portano i costi totali a 13875€.
+Sommando i totali dei costi del progetto si ottiene una previsione di costi 1025€, ai quali vanno sommati gli stipendi dei project manger che guadagnano 95€\h che moltiplicati per una durata di 50h lavorative portano i costi totali a 14775€.
+I componenti hw come tablet e i wifi point saranno dati in concessione dal comune di Gallipoli.
