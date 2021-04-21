@@ -1,7 +1,7 @@
 # Project Charter
 ## Project charter per il progetto progettoGPOI per lo sviluppo del turismo nella città di Gallipoli
 
-| Progetto: Project charter GPOI | Codice progetto: A001 |
+| Progetto: progettoGPOI | Codice progetto: A001 |
 | :----: | :----: |
 | Data: 17/03/2021  | Revisione: 0 |
 | Cliente: Turisti di Gallipoli | Sponsor: Agenzia Del Turismo  |
