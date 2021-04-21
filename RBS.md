@@ -14,7 +14,7 @@
      * - risurse umane q = 24h ; pu = 15€   tot. 360€
      * - Materiali q = 5 postazioni ; pu = 750€   tot. 3750€    
   * **1.3 Realizazione**
-       * 1.3.1 Realizazione sito WEB  **tot.400€* 
+       * 1.3.1 Realizazione sito WEB  **tot.400€** 
           * Risorse Umane 10h 40€ TOTALE 400€
           
      * 1.3.2 Realizazione Programma **tot.450€**
