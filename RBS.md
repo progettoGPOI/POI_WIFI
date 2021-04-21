@@ -34,3 +34,5 @@
 * **1.4 Chiusura**
      * 1.4.1  Installazione **tot 60€**
           * Risorse Umane 2h 30€ TOTALE 60€  
+
+Sommando i totali dei costi del progetto si ottiene una previsione di costi 9125€, ai quali vanno sommati gli stipendi dei project manger che guadagnano 95€\h che moltiplicati per una durata di 50h lavorative portano i costi totali a 13875€.
