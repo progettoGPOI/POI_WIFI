@@ -8,9 +8,9 @@
 
 ## **WBS**- **Descrizione**- **Durata**
   * **1.1 Avvio**
-     * 1.1.1 Analisi Comessa  tot. 100€
+     * 1.1.1 Analisi Comessa  **tot. 100€**
      * - Risorse umane q = 5h ; pu = 20€   tot. 100€
-     * 1.1.2 Acquisto Postazioni   tot. 4110€   
+     * 1.1.2 Acquisto Postazioni   **tot. 4110€**   
      * - risurse umane q = 24h ; pu = 15€   tot. 360€
      * - Materiali q = 5 postazioni ; pu = 750€   tot. 3750€    
   * **1.2 Pianificazione** 
