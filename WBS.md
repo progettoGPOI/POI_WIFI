@@ -21,16 +21,5 @@
   * **1.4 Chiusura**
     * 1.4.1  Installazione 2
 
-* **Realizazione**
-  * 1.3.1 Realizazione sito WEB 
-          * Risorse Umane 10h 40€ TOTALE 400€
-          
-   * 1.3.2 Realizazione Programma
-        *   Risorse Umane 10h 45€ TOTALE 450€
-       
-   * 1.3.3 Test 
-        * Risorse Umane 5h 25€ TOTALE 125€ 
-* **Chiusura**
-     * 1.4.1  Installazione
-          * Risorse Umane 2h 30€ TOTALE 60€   
+ 
         
