@@ -40,6 +40,7 @@ Visto che turismo in tutta Italia ha subito una forte crisi economica e numerica
        * Fotografo 35€/h
        * Guida Turistica 30€/h
        * Organizatore di eventi 50€/h
+       * Sistemisti 15€/h
    
 
 ## 7. Documenti di riferimento e allegati
