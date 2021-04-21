@@ -33,7 +33,7 @@ Visto che turismo in tutta Italia ha subito una forte crisi economica e numerica
 ## 6. Principali risorse e limiti di costo
    il baget per la realizazione è 15.000€
    * Projet Maneger 95€/h
-   * Postazioni 750€ (a postazione)
+   * Postazioni 990€ (a postazione)
       * Computer 
       * Software 
    * Personale Esterno
